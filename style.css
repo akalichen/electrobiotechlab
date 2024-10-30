@@ -7,7 +7,7 @@ body {
 
 /* Styling for the header section */
 header {
-    background-color: #4CAF50;
+    background-color: #ADD8E6;
     color: white;
     padding: 20px;
     text-align: center;
@@ -17,7 +17,7 @@ header {
 nav ul {
     list-style-type: none;
     padding: 0;
-    background-color: #333;
+    background-color: #FFFDD0;
     text-align: center;
     margin: 0;
 }
