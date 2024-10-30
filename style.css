@@ -8,7 +8,7 @@ body {
 /* Styling for the header section */
 header {
     background-color: #ADD8E6;
-    color: white;
+    color: black;
     padding: 20px;
     text-align: center;
 }
@@ -28,7 +28,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
 }
